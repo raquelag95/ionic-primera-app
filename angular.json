@@ -6,10 +6,7 @@
     "app": {
       "projectType": "application",
       "schematics": {
-        "@ionic/angular-toolkit:page": {
-          "styleext": "scss",
-          "standalone": true
-        }
+
       },
       "root": "",
       "sourceRoot": "src",
